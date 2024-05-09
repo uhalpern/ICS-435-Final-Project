@@ -1,6 +1,7 @@
 datasets[audio]==1.15.0
 transformers==4.14.2
 accelerate==0.5.1
+evaluate==0.4.2
 jiwer==2.2.0
 tensorboard>=2.15,<2.16
 gradio==2.3.6
